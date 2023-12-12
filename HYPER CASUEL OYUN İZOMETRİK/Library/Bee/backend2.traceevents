@@ -1,0 +1,330 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1702377926230534, "dur":33774, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926264320, "dur":91, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926264446, "dur":251, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926264748, "dur":206, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":0, "ts":1702377926264982, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265109, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265313, "dur":96, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level0.resS" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265415, "dur":128, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265551, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level1.resS" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265631, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/resources.assets" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265700, "dur":109, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265836, "dur":108, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":0, "ts":1702377926265949, "dur":90, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266094, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266168, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266226, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266665, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266824, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926266899, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926267015, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926267548, "dur":57, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926267665, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926267776, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926268006, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926268065, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926268492, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926268994, "dur":88, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926269255, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926269362, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926270209, "dur":50, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702377926264735, "dur":8381, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926273119, "dur":369410, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926642530, "dur":75, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926642728, "dur":2377, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1702377926266045, "dur":7130, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926273178, "dur":1027, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926274205, "dur":948, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926275154, "dur":686, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926275841, "dur":4685, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926280554, "dur":70, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926282378, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926287119, "dur":436, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926283464, "dur":4105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1702377926287571, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1702377926290985, "dur":134, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926287930, "dur":3330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":1, "ts":1702377926291433, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702377926291495, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926294935, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926291586, "dur":3549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702377926295256, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1702377926297248, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926295720, "dur":1652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":1, "ts":1702377926297464, "dur":62, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926297459, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926300027, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926297655, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926300261, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926300258, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926300322, "dur":124, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926302960, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926300992, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1702377926303160, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702377926303318, "dur":2696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1702377926306092, "dur":112, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":1, "ts":1702377926306091, "dur":115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK.exe" }}
+,{ "pid":12345, "tid":1, "ts":1702377926309381, "dur":230, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926306235, "dur":3433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK.exe" }}
+,{ "pid":12345, "tid":1, "ts":1702377926341663, "dur":376, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926310421, "dur":31793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926342386, "dur":3209, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926345719, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926345787, "dur":3074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926349296, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926351233, "dur":59, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926349428, "dur":1899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926351426, "dur":71, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926351503, "dur":1568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926353198, "dur":2170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926355484, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926359432, "dur":84, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926357791, "dur":1772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926359663, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926361096, "dur":2340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926367679, "dur":166, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926363540, "dur":4344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926367979, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926369937, "dur":105, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926368050, "dur":2089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926376622, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926370279, "dur":6424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926376821, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926378333, "dur":2852, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926381508, "dur":1694, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926383316, "dur":1383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926384829, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926386671, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926390073, "dur":113, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926388504, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926390315, "dur":2052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926392470, "dur":1555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926394118, "dur":1734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926395997, "dur":59, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926397751, "dur":196, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926396062, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926398514, "dur":4237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926402870, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926406149, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926404372, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926406374, "dur":2906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926409369, "dur":2262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926411719, "dur":1556, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926413360, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1702377926415084, "dur":5161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1702377926420490, "dur":2194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1702377926423058, "dur":4881, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1702377926432317, "dur":224, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926428139, "dur":4506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1702377926432785, "dur":132, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702377926432923, "dur":2864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level1.resS" }}
+,{ "pid":12345, "tid":1, "ts":1702377926435895, "dur":1519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level0" }}
+,{ "pid":12345, "tid":1, "ts":1702377926437496, "dur":2866, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1702377926440434, "dur":202090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702377926265872, "dur":7257, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702377926273135, "dur":7388, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702377926281918, "dur":842, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1702377926282768, "dur":114, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702377926283295, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926283421, "dur":103, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926283528, "dur":497, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926284029, "dur":743, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926284777, "dur":374, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926285158, "dur":125, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Csg.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926285285, "dur":519, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926285810, "dur":425, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926286239, "dur":251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926286492, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.ProBuilder.KdTree.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926286621, "dur":441, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926287067, "dur":116, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\USER\\Desktop\\UNITY\\HYPER CASUEL OYUN ZOMETRK\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702377926287283, "dur":134, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player823abb30-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1702377926282765, "dur":4869, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702377926288311, "dur":79, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702377926288822, "dur":336872, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702377926632325, "dur":7932, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702377926632323, "dur":7936, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1702377926640273, "dur":100, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702377926640384, "dur":1987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926266008, "dur":7132, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926273155, "dur":1140, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926274297, "dur":944, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926275242, "dur":591, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926275834, "dur":4695, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926280571, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1702377926280543, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1702377926281263, "dur":136, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926281602, "dur":5767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":3, "ts":1702377926287784, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926289981, "dur":241, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926288580, "dur":1681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926290392, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702377926290459, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926290645, "dur":5454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702377926296166, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702377926298121, "dur":52, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926296476, "dur":1745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702377926298308, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1702377926299713, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1702377926301832, "dur":84, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926301828, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926301948, "dur":1760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1702377926303771, "dur":56, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926304496, "dur":2294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926306854, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1702377926315282, "dur":173, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926309327, "dur":6163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1702377926315610, "dur":75, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926320658, "dur":65, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926315690, "dur":5076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926320856, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926323012, "dur":1845, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926324953, "dur":3524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926328582, "dur":1617, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926330291, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926330354, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926333318, "dur":3394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926336806, "dur":2205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926341301, "dur":133, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926339183, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926341520, "dur":2233, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926344688, "dur":696, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926353332, "dur":825, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926345389, "dur":9275, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926355039, "dur":119, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926355163, "dur":7692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.ProBuilder.Stl.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926362992, "dur":3656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926366794, "dur":2251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926369181, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926369253, "dur":3216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926372577, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926374208, "dur":83, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926372636, "dur":1708, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926378861, "dur":114, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926374457, "dur":4545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926379692, "dur":3062, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926382762, "dur":5069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926389495, "dur":321, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926387965, "dur":1870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926389911, "dur":255, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926392634, "dur":102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926390175, "dur":2586, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926392870, "dur":2419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926397304, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926395441, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926397527, "dur":1846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926399467, "dur":1369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926403337, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926400955, "dur":2463, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926403549, "dur":79, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926406224, "dur":122, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926403633, "dur":2727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926408532, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926406453, "dur":2191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926408775, "dur":2250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926411131, "dur":1491, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926412750, "dur":1782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926414600, "dur":82, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926414594, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926414697, "dur":67, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702377926414768, "dur":29782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702377926444609, "dur":197786, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926266505, "dur":6684, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926273189, "dur":1123, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926274313, "dur":985, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926275298, "dur":5232, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926280570, "dur":69, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1702377926280543, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1702377926287020, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926284780, "dur":2428, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1702377926287276, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926287963, "dur":3353, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926291401, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926291398, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926291519, "dur":4226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926295849, "dur":59, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926295843, "dur":67, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926295923, "dur":70, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926296362, "dur":1317, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1702377926297740, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1702377926300834, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926297857, "dur":3088, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1702377926301017, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1702377926301145, "dur":2229, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1702377926303455, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1702377926303516, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926304774, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1702377926306094, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.2.10f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926306091, "dur":58, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926315217, "dur":92, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926306244, "dur":9119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926315558, "dur":5038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926320699, "dur":158, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926320862, "dur":2022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926323013, "dur":1902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926325061, "dur":4894, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926330082, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926330149, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926332741, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926332808, "dur":3186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926338965, "dur":140, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926336228, "dur":2939, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926339269, "dur":2071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926341456, "dur":1981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926344988, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926343542, "dur":1624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926345285, "dur":2234, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926347685, "dur":2971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.ProBuilder.Poly2Tri.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926350789, "dur":1827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926352785, "dur":1954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926354945, "dur":1995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/Unity.ProBuilder.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926357103, "dur":1908, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926359121, "dur":1502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926360780, "dur":2154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926364856, "dur":72, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926363060, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926365222, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926368235, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926365289, "dur":3049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926368433, "dur":60, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926368499, "dur":1659, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926370258, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926374246, "dur":428, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926370348, "dur":4385, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926374836, "dur":3106, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926378077, "dur":65, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926381809, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926378148, "dur":3768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926384036, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926382016, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926384286, "dur":1805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926386224, "dur":1663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926388005, "dur":1524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926389657, "dur":69, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926389732, "dur":1823, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926391708, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926393728, "dur":2373, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926396213, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926398004, "dur":1642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926399741, "dur":1402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926401260, "dur":1715, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926403072, "dur":1450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926404605, "dur":1929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926406623, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926408902, "dur":85, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926406689, "dur":2344, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926409123, "dur":2072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926411304, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926413123, "dur":1818, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702377926415048, "dur":2858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":4, "ts":1702377926418240, "dur":4734, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":4, "ts":1702377926423197, "dur":7677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1702377926432707, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702377926430982, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1702377926432994, "dur":2805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level1" }}
+,{ "pid":12345, "tid":4, "ts":1702377926435891, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/level0.resS" }}
+,{ "pid":12345, "tid":4, "ts":1702377926437671, "dur":2132, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":4, "ts":1702377926439946, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/USER/Desktop/OYUN/HYPER CASUEL OYUN ZOMETRK_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":4, "ts":1702377926441262, "dur":201164, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702377926648970, "dur":2138, "ph":"X", "name": "ProfilerWriteOutput" }
+,
